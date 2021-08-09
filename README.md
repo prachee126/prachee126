@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prachee126
+- 👋 Hi, I’m Prachi Kavale
 - 👀 I’m interested in Programming
 -    I’m currently learning BCA TY
 - 💞️ I’m looking to collaborate on ...
