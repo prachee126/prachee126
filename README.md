@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prachi Kavale
 - 👀 I’m interested in Programming
--    I’m currently learning BCA TY
-- 💞️ I’m looking to collaborate on ...
+-    I’m currently learning Msc.CA FY
+
 - 📫 How to reach me prachikavale43@gmail.com
 
 <!---
